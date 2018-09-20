@@ -1,4 +1,4 @@
-## 添加依赖
+## 下载
 - [validatecode-binary-0.1.jar](https://raw.githubusercontent.com/ffpy/ValidateCode/master/downloads/validatecode-binary-0.1.jar)
 - [validatecode-source-0.1.jar](https://raw.githubusercontent.com/ffpy/ValidateCode/master/downloads/validatecode-source-0.1.jar)
 
